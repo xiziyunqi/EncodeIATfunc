@@ -1,0 +1,21 @@
+﻿Build started 2018/3/10 8:36:13.
+     1>Project "G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\CyxvcProtect\CyxvcProtect.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\CyxvcProtect.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PACK.cpp PE.cpp
+         PACK.cpp
+         PE.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Release\CyxvcProtect.exe" /INCREMENTAL:NO /NOLOGO /NODEFAULTLIB:LIBCD.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Release\CyxvcProtect.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Release\CyxvcProtect.lib" /MACHINE:X86 /SAFESEH Release\CyxvcProtect.res
+         Release\CyxvcProtect.obj
+         Release\CyxvcProtectDlg.obj
+         Release\PACK.obj
+         Release\PE.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         CyxvcProtect.vcxproj -> G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Release\CyxvcProtect.exe
+     1>Done Building Project "G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\CyxvcProtect\CyxvcProtect.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.77

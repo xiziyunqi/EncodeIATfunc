@@ -1,0 +1,19 @@
+﻿Build started 2018/3/8 13:59:06.
+     1>Project "G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Shell\Shell.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SHELL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Shell.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Shell.cpp
+         Shell.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.lib" /MACHINE:X86 /SAFESEH /DLL Release\dllmain.obj
+         Release\Shell.obj
+         Release\stdafx.obj
+            Creating library G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.lib and object G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.exp
+         Generating code
+         Finished generating code
+     1>Shell.obj : warning LNK4254: section '.data' (C0000040) merged into '.text' (60000020) with different attributes
+         Shell.vcxproj -> G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\\Debug\Shell.dll
+     1>Done Building Project "G:\keti\拾遗\20151229C++实现的壳基础版\扩展版\CyxvcProtect(扩展版)\CyxvcProtect(扩展版)\源码\Shell\Shell.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.67

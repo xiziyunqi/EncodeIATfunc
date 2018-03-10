@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pojie - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\BFS039\AppData\Local\Temp\RSPC0.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/pojie.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\vc\pojie\pojie.cpp"
+]
+Creating command line "cl.exe @C:\Users\BFS039\AppData\Local\Temp\RSPC0.tmp" 
+Creating command line "link.exe /nologo /subsystem:console /incremental:no /pdb:"Release/pojie.pdb" /machine:I386 /out:"Release/pojie.exe"  ".\Release\pojie.obj" "
+<h3>Output Window</h3>
+Compiling...
+pojie.cpp
+Linking...
+LINK : fatal error LNK1104: cannot open file "Release/pojie.exe"
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+pojie.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
